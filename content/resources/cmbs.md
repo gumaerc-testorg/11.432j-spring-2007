@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Case assignment on CMBS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-432j-real-estate-capital-markets-spring-2007/4e7c71553740222cdcd8d63bd1b3d6b3_cmbs.pdf
+file: /media/courses/11-432j-real-estate-capital-markets-spring-2007/4e7c71553740222cdcd8d63bd1b3d6b3_cmbs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: cmbs.pdf
 uid: 4e7c7155-3740-222c-dcd8-d63bd1b3d6b3
