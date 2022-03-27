@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3f423d9c-7a65-a21e-1f9c-1869680da846
 resourcetype: Document
 title: lincoln.pdf
 uid: ef258924-d615-9945-a176-9f3e3d6aa064

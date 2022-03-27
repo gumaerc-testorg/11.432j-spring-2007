@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fc99db8-7baa-92b7-85e2-f78509c48127
 resourcetype: Document
 title: derivs.pdf
 uid: 2530a9f4-8bcf-0129-1ef6-1a0cd1033efa
