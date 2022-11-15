@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to web sites that provide additional information
+  that is useful in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
