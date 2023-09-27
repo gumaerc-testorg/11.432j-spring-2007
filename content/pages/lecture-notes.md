@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  slides use for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Course introduction, portfolio theory
 {{< tdclose >}}
 {{< tdopen >}}
-Chapters 21 and 22, slides 19-29 ([PDF]({{< baseurl >}}/resources/ch21_22))
+Chapters 21 and 22, slides 19-29 ({{% resource_link b5e3f0a2-170d-6ea1-a80d-abf7f9caafb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ REITs introduction
 {{< tdopen >}}
 
 
-Chapter 23, slides 80-82, 1-26 ([PDF]({{< baseurl >}}/resources/ch23))
+Chapter 23, slides 80-82, 1-26 ({{% resource_link 0334f6a3-ca0e-7d21-86a2-e45d21e6af2f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -131,7 +133,7 @@ Chapter 23, slides 73-78
 CMBS introduction, CMBS structure (start)
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 20, slides 1-16 ([PDF]({{< baseurl >}}/resources/ch20))
+Chapter 20, slides 1-16 ({{% resource_link c9dedd34-4f0f-930c-a9d6-1b353a730425 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,9 +171,9 @@ Real estate equity derivatives: Index swaps
 {{< tdopen >}}
 
 
-Chapter 26 ([PDF]({{< baseurl >}}/resources/ch26))
+Chapter 26 ({{% resource_link 56946184-1001-88e1-82e5-fdc0062b68e2 "PDF" %}})
 
-Derivatives ([PDF]({{< baseurl >}}/resources/derivs))
+Derivatives ({{% resource_link 2530a9f4-8bcf-0129-1ef6-1a0cd1033efa "PDF" %}})
 
 
 {{< tdclose >}}
