@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case assignment for One Lincoln Street.
-file: /courses/11-432j-real-estate-capital-markets-spring-2007/ef258924d6159945a1769f3e3d6aa064_lincoln.pdf
+file: /ol-ocw-studio-app/courses/11-432j-real-estate-capital-markets-spring-2007/ef258924d6159945a1769f3e3d6aa064_lincoln.pdf
 file_size: 256808
 file_type: application/pdf
 learning_resource_types:
