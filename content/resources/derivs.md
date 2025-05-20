@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about derivatives.
-file: /ol-ocw-studio-app/courses/11-432j-real-estate-capital-markets-spring-2007/2530a9f48bcf01291ef61a0cd1033efa_derivs.pdf
+file: /courses/11-432j-real-estate-capital-markets-spring-2007/2530a9f48bcf01291ef61a0cd1033efa_derivs.pdf
 file_size: 162756
 file_type: application/pdf
 learning_resource_types:
