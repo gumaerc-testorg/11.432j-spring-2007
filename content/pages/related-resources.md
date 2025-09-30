@@ -10,18 +10,18 @@ uid: 323463db-4878-2656-f792-c47f3c41ef59
 
 These Web sites may provide additional information that is useful in the course.
 
-[National Association of Real Estate Investment Trusts](https://www.reit.com/)
+{{% resource_link "cb8f0aac-3506-4a59-9a2e-9759bcb8b85d" "National Association of Real Estate Investment Trusts" %}}
 
-[National Council of Real Estate Investment Fiduciaries](http://www.ncreif.org/)
+{{% resource_link "19870de2-6c12-44cc-98a1-4ebbb8ee42a8" "National Council of Real Estate Investment Fiduciaries" %}}
 
-[Commercial Mortgage Securities Association](https://en.wikipedia.org/wiki/Commercial_Mortgage_Securities_Association)
+{{% resource_link "3d3ca5ed-5c89-402d-b727-e67499db806f" "Commercial Mortgage Securities Association" %}}
 
-[Pension Real Estate Association](http://www.prea.org/)
+{{% resource_link "4a1748c6-a510-4d10-9f8e-d0527a1673aa" "Pension Real Estate Association" %}}
 
-[Green Street Advisors](http://www.greenstreetadvisors.com/)
+{{% resource_link "367388e0-2387-437b-bf34-cc279e16ac60" "Green Street Advisors" %}}
 
-[PikeNet](http://www.pikenet.com/)
+{{% resource_link "58f01754-4c08-447d-87d8-b6fc11cb0c66" "PikeNet" %}}
 
-[SNL Real Estate](http://www.snl.com/real_estate/)
+{{% resource_link "ebd930b8-8539-4703-9748-6e8763612bed" "SNL Real Estate" %}}
 
-[John B. Levy & Company](http://www.jblevyco.com/)
+{{% resource_link "674f76ca-6df8-4b38-97f2-951619a7d42a" "John B. Levy & Company" %}}
